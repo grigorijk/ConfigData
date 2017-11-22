@@ -2,4 +2,4 @@ word-config:
   lucky-word: Cinema
   preamble: You have visited 
 common-config:
-  sign: !
+  sign: .Yeah!
